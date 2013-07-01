@@ -1,7 +1,7 @@
 {
   "name": "prettyuse",
   "version": "0.0.0",
-  "description": "format proc use for humans. uses pretty size",
+  "description": "format memory use for humans. uses prettysize",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
