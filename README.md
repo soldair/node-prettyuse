@@ -1,7 +1,7 @@
-prettysize
-==========
+prettyuse
+=========
 
-print bytes for human consumtion
+print bytes used for human consumtion
 
 ```js
 
