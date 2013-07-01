@@ -1,0 +1,34 @@
+{
+  "name": "prettyuse",
+  "version": "0.0.0",
+  "description": "format proc use for humans. uses pretty size",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/soldair/node-prettyuse.git"
+  },
+  "keywords": [
+    "memory",
+    "human",
+    "print",
+    "pretty",
+    "size",
+    "bytes",
+    "MB",
+    "megs"
+  ],
+  "author": "Ryan Day <soldair@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/soldair/node-prettyuse/issues"
+  },
+  "devDependencies": {
+    "tape": "~1.0.4"
+  },
+  "dependencies": {
+    "prettysize": "~0.0.2"
+  }
+}
